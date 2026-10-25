@@ -1,0 +1,8 @@
+# 個人データは ~/.hoshiyomi/ にあるのでリポジトリには入らないが、念のため
+*.db
+*.sqlite*
+.hoshiyomi/
+# 作業の残り
+*.bak-*
+__pycache__/
+*.pyc
